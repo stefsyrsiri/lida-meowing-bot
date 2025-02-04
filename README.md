@@ -1,6 +1,6 @@
 # Lida Meowing Bot
 
-Lida is a fun Telegram bot that responds to user messages with playful cat-themed replies. Lida greets users and generates random meowssages along with cute cat emotes. This is a *test project for Telegram bot development*.
+Lida is a fun Telegram bot that responds to user messages with playful cat-themed replies. Lida greets users and generates random meowssages along with cute cat emotes. This is a **test project for Telegram bot development**.
 
 ## Demo
 
